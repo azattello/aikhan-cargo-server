@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:iP0uClfGley9VyMH@aikhan-cargo.svipoil.mongodb.net/?retryWrites=true&w=majority&appName=aikhan-cargo",
+    "secretKey" : "mern-secret-key"
+}
